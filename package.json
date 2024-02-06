@@ -1,5 +1,7 @@
 {
-	"name": "igweonu-ebuka",
+	"author": "igweonu-ebuka",
+	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "backend", "freeCodeCamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
