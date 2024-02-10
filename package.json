@@ -1,7 +1,7 @@
 {
 	"author": "igweonu-ebuka",
 	"description": "A freeCodeCamp backend course project",
-	"keywords": [ "descriptive", "backend", "freeCodeCamp" ],
+	"keywords": [ "descriptive", "backend", "freecodecamp" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
